@@ -15,7 +15,7 @@ nota2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Digite a nota #3...: ");
 nota3 = Convert.ToDouble(Console.ReadLine());
 
-//informar a terceira nota do aluno
+//informar a quarta nota do aluno
 Console.Write("Digite a nota #4...: ");
 nota4 = Convert.ToDouble(Console.ReadLine());
 
